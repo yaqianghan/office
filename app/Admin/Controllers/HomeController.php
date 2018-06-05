@@ -9,6 +9,7 @@ use Encore\Admin\Layout\Column;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Layout\Row;
 
+// test
 class HomeController extends Controller
 {
     public function index()
